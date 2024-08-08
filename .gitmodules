@@ -1,0 +1,6 @@
+[submodule "Anu1_mouredev"]
+	path = Anu1_mouredev
+	url = https://github.com/ANUAR-Gimenez-Tolosa/Anu1_mouredev.git
+[submodule "mi-primer-repositorio-freeCodeCamp-GitHub"]
+	path = mi-primer-repositorio-freeCodeCamp-GitHub
+	url = https://github.com/ANUAR-Gimenez-Tolosa/mi-primer-repositorio-freeCodeCamp-GitHub.git
